@@ -1,3 +1,9 @@
 [submodule "robosuite"]
 	path = robosuite
 	url = https://github.com/ARISE-Initiative/robosuite.git
+[submodule "ecot"]
+	path = ecot
+	url = https://github.com/MichalZawalski/embodied-CoT.git
+[submodule "openvla"]
+	path = openvla
+	url = https://github.com/openvla/openvla.git
